@@ -1,3 +1,8 @@
+# ==============================================================================
+# AI Sleep & Distraction Tracker
+# Developed by: ruchitgoud (https://github.com/ruchitgoud)
+# Copyright (c) 2026 ruchitgoud. All rights reserved.
+# ==============================================================================
 import cv2
 import time
 import numpy as np
@@ -212,6 +217,10 @@ def main():
         cv2.rectangle(frame, (btn_x1, btn_y1), (btn_x2, btn_y2), (0, 0, 200), -1)
         cv2.putText(frame, "EXIT", (btn_x1 + 25, btn_y1 + 28), 
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
+
+        # Subtle watermark overlay
+        cv2.putText(frame, "Developed by ruchitgoud", (20, h - 40), 
+                    cv2.FONT_HERSHEY_SIMPLEX, 0.5, (200, 200, 200), 1, cv2.LINE_AA)
 
         cv2.imshow(WINDOW_NAME, frame)
 
