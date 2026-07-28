@@ -218,8 +218,7 @@ def main():
         cv2.putText(frame, "EXIT", (btn_x1 + 25, btn_y1 + 28), 
                     cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
 
-        # Subtle watermark overlay
-        cv2.putText(frame, "Developed by ruchitgoud", (20, h - 40), 
+         cv2.putText(frame, "Developed by ruchitgoud", (20, h - 40), 
                     cv2.FONT_HERSHEY_SIMPLEX, 0.5, (200, 200, 200), 1, cv2.LINE_AA)
 
         cv2.imshow(WINDOW_NAME, frame)
@@ -232,5 +231,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-#Blink Count
