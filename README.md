@@ -26,7 +26,7 @@ An AI-powered computer vision system that monitors user fatigue and focus in rea
 
 ---
 
-## 📋 Prerequisites
+## 📋 Requirements
 
 1. **Python 3.10+** installed on your system.
 2. **Camera**: A built-in webcam or external USB camera.
