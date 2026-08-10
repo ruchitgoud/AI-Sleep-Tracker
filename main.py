@@ -1,8 +1,3 @@
-# ==============================================================================
-# AI Sleep & Distraction Tracker
-# Developed by: ruchitgoud (https://github.com/ruchitgoud)
-# Copyright (c) 2026 ruchitgoud. All rights reserved.
-# ==============================================================================
 import cv2
 import time
 import numpy as np
