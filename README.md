@@ -62,7 +62,7 @@ An AI-powered computer vision system that monitors user fatigue and focus in rea
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/AI-Sleep-Tracker.git
+git clone https://github.com/ruchitgoud/AI-Sleep-Tracker.git
 cd AI-Sleep-Tracker
 ```
 
@@ -105,6 +105,6 @@ python main.py
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [BSD 2-Clause License](LICENSE).
 
 ---
