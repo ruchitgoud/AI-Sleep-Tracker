@@ -17,12 +17,35 @@ An AI-powered computer vision system that monitors user fatigue and focus in rea
 
 ---
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
-* **Python** (Core Logic)
-* **OpenCV** (Real-time camera feed processing and UI rendering)
-* **Google MediaPipe** (Face Landmarker model for 468+ 3D facial landmarks and iris tracking)
-* **Pygame** (Audio mixer for seamless warning sound playback)
+<p>
+
+  <img src="https://skillicons.dev/icons?i=python" width="55" alt="Python"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=opencv" width="55" alt="OpenCV"/>
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mediapipe/00C853" width="55" alt="MediaPipe"/>
+  &nbsp;&nbsp;
+  <img src="https://www.pygame.org/ftp/pygame-head-party.png" width="55" alt="Pygame"/>
+
+</p>
+
+<p>
+  <b>🐍 Python</b> &nbsp; • &nbsp;
+  <b>👁️ OpenCV</b> &nbsp; • &nbsp;
+  <b>🎯 MediaPipe</b> &nbsp; • &nbsp;
+  <b>🎮 Pygame</b>
+</p>
+
+<br>
+
+| Technology | Purpose |
+|:----------:|:--------|
+| 🐍 **Python** | Core application logic |
+| 👁️ **OpenCV** | Real-time camera feed processing & UI rendering |
+| 🎯 **MediaPipe** | 468+ 3D facial landmarks & iris tracking |
+| 🔊 **Pygame** | Warning sound & audio playback |
 
 ---
 
@@ -77,3 +100,11 @@ python main.py
    * If your eye height falls below the threshold, the system registers a **Sleep** state.
    * If your iris position drops significantly below your calibrated center, it registers a **Looking Down/Distracted** state.
    * A progress bar fills up at the bottom of the screen. If you remain distracted or asleep for more than **2 seconds**, the alarm sounds and the alert video plays.
+
+---
+
+## 📄 License
+
+This project is open source and available under the [MIT License](LICENSE).
+
+---
