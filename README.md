@@ -1,6 +1,10 @@
-# AI Sleep & Distraction Tracker 😴🚀
+# AI Sleep & Distraction Tracker 
 
-An AI-powered computer vision system that monitors user fatigue and focus in real-time. By utilizing facial landmark detection and iris tracking, the application detects signs of drowsiness (closed eyes) or distraction (looking away/down) and triggers a dual-warning system (audio + video alerts) to regain the user's attention.
+> **An AI-powered real-time computer vision system that monitors drowsiness and distraction using facial landmarks and iris tracking.**
+
+The system detects **closed eyes, loss of focus, and changes in gaze direction** to identify potential fatigue or distraction. When detected, it provides **instant audio and visual alerts** to help regain the user's attention.
+
+**👁️ Computer Vision** · **⚡ Real-Time Detection** · **🔊 Audio Alerts**
 
 ---
 
@@ -108,3 +112,7 @@ python main.py
 This project is open source and available under the [BSD 2-Clause License](LICENSE).
 
 ---
+
+<p align="center">
+ ❤️ Crafted by <strong>Ruchit Goud</strong>
+</p>
