@@ -31,7 +31,7 @@ The system detects **closed eyes, loss of focus, and changes in gaze direction**
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mediapipe/00C853" width="55" alt="MediaPipe"/>
   &nbsp;&nbsp;
-  <img src="https://www.pygame.org/ftp/pygame-head-party.png" width="55" alt="Pygame"/>
+  <img src="https://www.pygame.org/ftp/pygame-head-party.png" width="70" alt="Pygame"/>
 
 </p>
 
