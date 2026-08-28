@@ -7,11 +7,3 @@ __pycache__/
 face_landmarker.task
 assets/*.mp4
 assets/*.mp3
-
-.vscode/
-.idea/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
