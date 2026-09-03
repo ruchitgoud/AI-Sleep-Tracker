@@ -114,5 +114,5 @@ This project is open source and available under the [BSD 2-Clause License](LICEN
 ---
 
 <p align="center">
- ❤️ Crafted by <strong>Ruchit Goud</strong>
+ Crafted by <strong>Ruchit Goud</strong>
 </p>
